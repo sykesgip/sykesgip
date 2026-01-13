@@ -16,7 +16,7 @@ Saya adalah seorang Web Developer yang fokus pada pembangunan aplikasi web dinam
 
 ## 🚀 Featured Projects (Live)
 
-### 1. Tiger Shacktive
+### 1. Tigers hacktive
 **Dynamic Company Profile**
 Website profil perusahaan yang dinamis dan modern untuk kebutuhan branding profesional.
 * **Tech:** Laravel 12, Bootstrap, JavaScript, MySQL.
