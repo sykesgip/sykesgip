@@ -1,7 +1,7 @@
 # Hi, I'm Syaghaf Mahardika Putra 👋  
 ### Fullstack Web Developer
 
-I am a results-driven Fullstack Web Developer specializing in the **Laravel** ecosystem. I focus on engineering robust and scalable web applications, with a current focus on modern, utility-first UI/UX implementation using **Tailwind CSS**.
+I am a results driven Fullstack Web Developer specializing in the **Laravel** ecosystem. I focus on engineering robust and scalable web applications, with a current focus on modern, utility-first UI/UX implementation using **Tailwind CSS**.
 
 ---
 
